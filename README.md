@@ -10,6 +10,8 @@
 [<img align="left" alt="IgorGrinev | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="IgorGrinev | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="IgorGrinev | Vk" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
+[<img align="left" alt="IgorGrinev | Vk" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][project]
+
 
 <br>
 <br>
@@ -39,3 +41,4 @@
 [instagram]: https://www.instagram.com/scandave/
 [vk]: https://vk.com/idaceptijo
 [gmail]: scandavee@gmail.com
+[project]: https://aceptijo.github.io/bellycat/
