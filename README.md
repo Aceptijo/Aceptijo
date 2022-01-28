@@ -28,6 +28,14 @@
 <br>
 <br>
 <br>
+
+### ⬛️ My projects:
+### <a href="https://aceptijo.github.io/bellycat/" target="_blank" >Belly Cat
+### <a href="https://aceptijo.github.io/binary/" target="_blank" >Binary
+  
+  
+<br>
+<br>
 <br>
 
 <details>
@@ -41,4 +49,5 @@
 [instagram]: https://www.instagram.com/scandave/
 [vk]: https://vk.com/idaceptijo
 [gmail]: scandavee@gmail.com
-[project]: https://aceptijo.github.io/bellycat/
+[project1]: https://aceptijo.github.io/bellycat/
+[project2]: https://aceptijo.github.io/binary/
