@@ -10,12 +10,12 @@
 [<img align="left" alt="IgorGrinev | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="IgorGrinev | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="IgorGrinev | Vk" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
-[<img align="left" alt="IgorGrinev | Vk" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][project]
 
 
 <br>
 <br>
 <br>
+
 
 ### 💎 My skills:
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -25,12 +25,14 @@
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+
 <br>
 <br>
 <br>
 
+
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/bellycat/" target="_blank" >Belly Cat
+### <a href="https://aceptijo.github.io/bellycat/" target="_blank" title="Belly Cat" >Belly Cat
 ### <a href="https://aceptijo.github.io/binary/" target="_blank" >Binary
   
   
@@ -38,6 +40,7 @@
 <br>
 <br>
 
+  
 <details>
   <summary>📈 And my statistics:</summary>
    <br>
