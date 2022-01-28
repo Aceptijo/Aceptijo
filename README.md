@@ -32,8 +32,9 @@
 
 
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/bellycat/" target="_blank" title="Belly Cat" >Belly Cat
-### <a href="https://aceptijo.github.io/binary/" target="_blank" >Binary
+### <a href="https://aceptijo.github.io/bellycat/" target="_blank" title="Belly Cat"> Belly cat </a> | <a href="https://aceptijo.github.io/binary/" target="_blank" > Binary </a> | <a href="https://aceptijo.github.io/portfolio/" target="_blank" title="Belly Cat"> Portfolio (practice) </a>
+   
+
   
   
 <br>
