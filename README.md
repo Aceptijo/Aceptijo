@@ -32,7 +32,7 @@
 
 
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/catstore/" target="_blank" title="CatStore"> Belly cat </a> | <a href="https://aceptijo.github.io/binary/" target="_blank" > Binary </a> | <a href="https://aceptijo.github.io/portfolio/" target="_blank" title="Belly Cat"> Portfolio (practice) </a>
+### <a href="https://aceptijo.github.io/catstore/" target="_blank" title="Cat Store"> Сat Store </a> | <a href="https://aceptijo.github.io/binary/" target="_blank" > Binary </a> | <a href="https://aceptijo.github.io/portfolio/" target="_blank" title="Belly Cat"> Portfolio (practice) </a>
    
 
   
