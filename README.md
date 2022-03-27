@@ -46,6 +46,7 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aceptijo&show_icons=true&theme=midnight-purple" />
 </details>
 
+[codewars]: https://www.codewars.com/users/ScanDave/badges/large
 [linkedin]: https://www.linkedin.com/in/grinevigor/
 [instagram]: https://www.instagram.com/scandave/
 [vk]: https://vk.com/idaceptijo
