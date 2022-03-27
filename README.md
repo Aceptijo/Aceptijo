@@ -6,8 +6,7 @@
 
 ### 🔗 My socials and connect with me:
 
-[<img align="left" alt="IgorGrinev | Linkedin" width="45px" src="https://user-images.githubusercontent.com/55832074/160288494-35c20b44-c064-4aa5-ad56-2aceca053596.svg)
-" />][linkedin]
+[<img align="left" alt="IgorGrinev | Linkedin" width="45px" src="ttps://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IgorGrinev | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="IgorGrinev | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="IgorGrinev | Vk" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vk.svg" />][vk]
