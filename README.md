@@ -50,7 +50,7 @@
 
 <br>
 <br>
-[![codewars](https://www.codewars.com/users/ScanDave/badges/large)](https://www.codewars.com/users/ScanDave)
+[![codewars]:(https://www.codewars.com/users/ScanDave/badges/large)](https://www.codewars.com/users/ScanDave)
 
 [linkedin]: https://www.linkedin.com/in/grinevigor/
 [instagram]: https://www.instagram.com/scandave/
