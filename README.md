@@ -1,6 +1,4 @@
-<br>
-
-### 🔗 My socials and connect with me:
+<br>### 🔗 My socials and connect with me:
 
 
 [<img align="left" alt="IgorGrinev | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
@@ -29,7 +27,10 @@
 
 
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="Cat Store"> To-Do List </a> | <a href="https://aceptijo.github.io/catstore/" target="_blank" title="Cat Store"> Сat Store </a> | <a href="https://aceptijo.github.io/binary/" target="_blank" > Binary </a> | <a href="https://aceptijo.github.io/portfolio/" target="_blank" title="Belly Cat"> Portfolio (practice) </a>
+### <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="Cat Store"> To-Do List </a> 
+   | <a href="https://aceptijo.github.io/catstore/" target="_blank" title="Cat Store"> Сat Store </a> 
+   | <a href="https://aceptijo.github.io/conduit-front/" target="_blank" > Conduit </a> 
+   | <a href="https://aceptijo.github.io/anime-react/" target="_blank" title="Belly Cat"> Anime TV </a>
    
 
 <br>
