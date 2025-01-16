@@ -1,7 +1,3 @@
-### 🌙 Good afternoon, this page belongs to Igor, and he wants to program.
-
-### 🔝 I want to be a programmer and develop in this sphere.
-
 <br>
 
 ### 🔗 My socials and connect with me:
