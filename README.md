@@ -27,10 +27,7 @@
 
 
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="Cat Store"> To-Do List </a> 
-   | <a href="https://aceptijo.github.io/catstore/" target="_blank" title="Cat Store"> Сat Store </a> 
-   | <a href="https://aceptijo.github.io/conduit-front/" target="_blank" > Conduit </a> 
-   | <a href="https://aceptijo.github.io/anime-react/" target="_blank" title="Belly Cat"> Anime TV </a>
+### <a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>  |  <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a> |  <a href="https://aceptijo.github.io/anime-react/" target="_blank" title="anime"> Anime TV </a>  |  <a href="https://aceptijo.github.io/catstore/" target="_blank" title="catStore"> Сat Store </a>  
    
 
 <br>
@@ -38,7 +35,7 @@
 
   
 <details>
-  <summary>📈 And my statistics:</summary>
+  <summary>📈 Statistics:</summary>
    <br>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aceptijo&langs_count=8&layout=compact&theme=midnight-purple" />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aceptijo&show_icons=true&theme=midnight-purple" />
