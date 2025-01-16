@@ -27,7 +27,7 @@
 
 
 ### ⬛️ My projects:
-### <a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>  |  <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a> |  <a href="https://aceptijo.github.io/anime-react/" target="_blank" title="anime"> Anime TV </a>  |  <a href="https://aceptijo.github.io/catstore/" target="_blank" title="catStore"> Сat Store </a>  
+### <a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>  |  <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a> |  <a href="https://aceptijo.github.io/anime-react/" target="_blank" title="anime"> Anime TV </a>  | <a href="https://aceptijo.github.io/react-store/" target="store" title="catStore"> React Store </a>  |  <a href="https://aceptijo.github.io/catstore/" target="_blank" title="catStore"> Сat Store </a>  
    
 
 <br>
