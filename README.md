@@ -1,4 +1,4 @@
-<br>### 🔗 My socials and connect with me:
+<br> ### 🔗 My socials and connect with me:
 
 
 [<img align="left" alt="IgorGrinev | Gmail" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
