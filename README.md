@@ -13,8 +13,9 @@
 </div>
 
 <h4 align="left">My projects</h4>
-<a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>   
 
+<a href="https://aceptijo.github.io/react-anime/" target="conduit" > React-anime </a>   
+<a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>   
 <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a>
 
 
