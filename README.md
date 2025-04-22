@@ -19,10 +19,6 @@
 
 <h4 align="left">My projects</h4>
 
-<a href="https://aceptijo.github.io/react-anime/" target="conduit" > React-anime </a>   
-<a href="https://aceptijo.github.io/conduit-front/" target="conduit" > Conduit </a>   
-<a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a>
-
-
-[![Project](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/react-anime/)
-
+[![React-Anime](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/react-anime/)
+[![React-Conduit](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/conduit-front/)
+[![React-ToDo](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/reacttodonew/)
