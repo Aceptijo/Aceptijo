@@ -24,4 +24,5 @@
 <a href="https://aceptijo.github.io/reacttodonew/" target="_blank" title="to-do"> To-Do List </a>
 
 
+[![Project](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/react-anime/)
 
