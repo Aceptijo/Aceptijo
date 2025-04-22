@@ -1,15 +1,13 @@
 <h4 align="left">My tech stack</h4>
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-b1b1b1?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img src="https://img.shields.io/badge/Zustand-8B4513?logo=zustand&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="25" alt="sass logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-454545?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/React-454545?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-454545?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Zustand-454545?logo=zustand&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Redux-454545?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-454545?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Sass-454545?logo=sass&logoColor=black&style=for-the-badge" height="25" alt="sass logo"  />
+  <img src="https://img.shields.io/badge/Git-454545?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
 </div>
 
 <h4 align="left">My projects</h4>
