@@ -19,6 +19,6 @@
 
 <h4 align="left">My projects</h4>
 
-[![React-Anime](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/react-anime/)
-[![React-Conduit](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/conduit-front/)
-[![React-ToDo](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge)](https://aceptijo.github.io/reacttodonew/)
+[![React-Anime](https://img.shields.io/badge/React--Anime-454545?style=for-the-badge)](https://aceptijo.github.io/react-anime/)
+[![React-Conduit](https://img.shields.io/badge/React--Conduit-454545?style=for-the-badge)](https://aceptijo.github.io/conduit-front/)
+[![React-ToDo](https://img.shields.io/badge/React--ToDo-454545?style=for-the-badge)](https://aceptijo.github.io/reacttodonew/)
